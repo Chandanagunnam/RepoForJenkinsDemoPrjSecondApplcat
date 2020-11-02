@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rajes\\Desktop\\chandana-GET-LTI\\c#\\day2\\Csharp-basics\\Methods1\\Methods1.csproj": {}
+    "D:\\Chandana\\Methods1\\Methods1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rajes\\Desktop\\chandana-GET-LTI\\c#\\day2\\Csharp-basics\\Methods1\\Methods1.csproj": {
+    "D:\\Chandana\\Methods1\\Methods1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rajes\\Desktop\\chandana-GET-LTI\\c#\\day2\\Csharp-basics\\Methods1\\Methods1.csproj",
+        "projectUniqueName": "D:\\Chandana\\Methods1\\Methods1.csproj",
         "projectName": "Methods1",
-        "projectPath": "C:\\Users\\rajes\\Desktop\\chandana-GET-LTI\\c#\\day2\\Csharp-basics\\Methods1\\Methods1.csproj",
-        "packagesPath": "C:\\Users\\rajes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rajes\\Desktop\\chandana-GET-LTI\\c#\\day2\\Csharp-basics\\Methods1\\obj\\",
+        "projectPath": "D:\\Chandana\\Methods1\\Methods1.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Chandana\\Methods1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rajes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

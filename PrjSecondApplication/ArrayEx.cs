@@ -12,7 +12,7 @@ namespace Csharp_Basics
             //new-- allocates memory
             string[] flower = new string[4];  //0,1,2,3
 
-            flower[0] = "Lily";
+            flower[0] = "Lotus";
             flower[1] = "Rose";
             flower[2] = "tulip";
             flower[3] = "daisy";

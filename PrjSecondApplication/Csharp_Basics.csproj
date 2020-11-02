@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Csharp_Basics.EnumerationExample</StartupObject>
+    <StartupObject>Csharp_Basics.ArrayEx</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
